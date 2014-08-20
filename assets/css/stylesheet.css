@@ -1,0 +1,58 @@
+/* page title */
+
+h1 {
+	text-align: center;
+	font-family: Arial;
+}
+
+h3 {
+	text-align: center;
+	font-family: Arial;
+}
+
+/* button */
+
+#wrapper {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+button {
+	margin: auto;
+	text-align: center;
+	
+}
+
+
+
+/* grid */
+
+#container {
+	display: table;
+	margin: 0 auto;
+}
+
+.row {
+	display: table-row;
+	height: 50px;
+	width: 50px;	
+}
+
+.column {
+	display: table-cell;
+	height: 50px;
+	width: 50px;
+}
+
+.highlight {
+	background-color: #000000;
+}
+
+/* footer */
+
+footer {
+	text-align: center;
+	margin-top: 50px;
+	font-family: Courier;
+}
